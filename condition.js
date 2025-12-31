@@ -26,29 +26,56 @@
 
     // school grade system
 
-    let score =  64;
+    // let score =  64;
 
-    if (score >= 90 & score <=100){
-        console.log("grade A")
-    }else if(score >= 80 & score <=89){
-        console.log("grade B")
-    }else if(score >= 70 & score <=79){
-        console.log("grade C")
-    }else if(score >= 60 &  score <= 69 ){
-        console.log("grade D")
-    }else if(score >=0 & score <=59 ){
-        console.log("grade F")
-    }
+    // if (score >= 90 & score <=100){
+    //     console.log("grade A")
+    // }else if(score >= 80 & score <=89){
+    //     console.log("grade B")
+    // }else if(score >= 70 & score <=79){
+    //     console.log("grade C")
+    // }else if(score >= 60 &  score <= 69 ){
+    //     console.log("grade D")
+    // }else if(score >=0 & score <=59 ){
+    //     console.log("grade F")
+    // }
 
     // age system 2
 
-    let ad,da =20;
+    // let ad,da =20;
 
     // if (age >=0 & age <=15 ){
     //     console.log("so young boy")
     // }else{
     //     console.log("teeneger!")
     // }
+
+
+    // condition if and else
+
+
+        let number = prompt("enter the number: ")
+
+        if (number==1){
+            console.log("this is number one ")
+        }
+
+        else if (number==2){
+            console.log("this is number two ")
+        }
+
+        else if (number==3){
+            console.log("this is number three ")
+        }
+
+        else if (number==4){
+            console.log("this is number four ")
+        }
+
+
+
+        // s
+
 
     
 
